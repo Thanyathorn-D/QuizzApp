@@ -12,7 +12,7 @@ class QuestionsScreen extends StatefulWidget {
 }
 
 class _QuestionsScreenState extends State<QuestionsScreen> {
-  int currentQuestionIndex = 0;
+  int currentQuestionIndex = 0; //dewy 55702
 
   // ฟังก์ชันเปลี่ยนคำถาม
   void answerQuestion() {
